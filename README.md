@@ -1,6 +1,6 @@
 # FineEQ (เดิมชื่อ TongEQ)
 
-EQ ทั้งเครื่องสำหรับ Windows 10 / 11 ปรับเสียงให้ฟินทั้งเกม เพลง และหนัง
+อีควอไลเซอร์ทั้งเครื่องสำหรับ Windows 10 / 11 หน้าเดียวใช้ง่าย ปรับได้ทุกเสียงในเครื่อง พรีเซ็ตโหลดฟรีที่ https://fineeq.com/presets
 
 **ดาวน์โหลด:** เวอร์ชันล่าสุดและเวอร์ชันก่อนหน้าทั้งหมดอยู่ที่ [หน้าดาวน์โหลด](https://fineeq.com/download)
 หรือที่ [Releases](https://github.com/nprxth-spec/tongeq-releases/releases) ของ repo นี้
